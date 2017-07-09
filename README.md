@@ -17,7 +17,7 @@ npm install --save truncate-people
 ## Usage
 
 ```js
-import truncatePeople from "truncate-people"
+import truncatePeople from 'truncate-people'
 
 // return 'Ashin and Monster'
 truncatePeople(['Ashin', 'Monster'])
