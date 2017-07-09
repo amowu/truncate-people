@@ -49,8 +49,8 @@ Params:
 | options.noOneTemplate | `string` | Text of nobody, default is `''`. |
 | options.compileOnePeopleTemplate | `function(a: string): string` | Default is `(a) => '${a}'`. |
 | options.compileTwoPeopleTemplate | `function(a: string, b: string): string` | Default is `(a, b) => '${a} and ${b}'`. |
-| options.compileManyPeopleTemplate | `function(a: string, b: string, numberOfOthers: number): string` | Default is `(a, b, numberOfOthers) => '${a}, ${b} and ${numberOfOthers} other people'`. |
 | options.compileThreePeopleTemplate | `function(a: string, b: string, c: string): string` | Default is `(a, b, c) => '${a}, ${b} and ${c}'`. |
+| options.compileManyPeopleTemplate | `function(a: string, b: string, numberOfOthers: number): string` | Default is `(a, b, numberOfOthers) => '${a}, ${b} and ${numberOfOthers} other people'`. |
 
 Return:
 
