@@ -1,6 +1,6 @@
 {
   "name": "truncate-people",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Facebook-like truncate function for text by number of people",
   "main": "dist/index.js",
   "files": [
